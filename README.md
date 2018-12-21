@@ -36,7 +36,8 @@ To know about a problem's tags, difficulty and other user's review, and then sel
 *Candidates can choose which steps they want to work on*
 
 ## Contribution
-You can contact mentors for contribution to this project.You can make pull requests if you want to contribute.You can take help of your mentors too.
+You can contact mentors regarding your *visualisation and techniques* to solve the problem and for contribution to this project.
+You can make pull requests if you want to contribute.
 
 ## Mentors
 * [Suraj Kumar](https://github.com/shazz10) - (Email- sksuraj2136@gmail.com)
