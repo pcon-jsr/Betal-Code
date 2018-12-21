@@ -33,6 +33,7 @@ To know about a problem's tags, difficulty and other user's review, and then sel
 1. Data Collection and Cleaning 
 2. Fitting a Recommendation Engine
 3. Deploying on Web-App
+
 *Candidates can choose which steps they want to work on*
 
 ## Contribution
