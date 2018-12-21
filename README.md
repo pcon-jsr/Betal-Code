@@ -8,16 +8,16 @@ To know about a problem's tags, difficulty and other user's review, and then sel
 > Multiple types of recommendation engines will operate in Betal-Code and Vikram can choose which type of recommedation to take.
 
 ## Systems to use for recommendation
-1.Collaborative Recommender System
-2.Content based Recommender System
-3.Hybrid Recommender System
-4.Knowledge based Recommender System
+* Collaborative Recommender System
+* Content based Recommender System
+* Hybrid Recommender System
+* Knowledge based Recommender System
 
 ## Machine Learning Techniques to Build Recommendation Engine
-1.k-nearest neighbours approach
-2.Association Rules appraoch
-3.Matrix Factorisation approach
-4.Deep NeuralNetworks approach
+* k-nearest neighbours approach
+* Association Rules appraoch
+* Matrix Factorisation approach
+* Deep NeuralNetworks approach
 
 *Any other techniques or systems are welcome as feature requests in Issues*
 
@@ -27,7 +27,7 @@ To know about a problem's tags, difficulty and other user's review, and then sel
 
 **Prior Knowledge of above prerequisites is not *mandatory* and can be learnt while development. Mentors can also help you out**
 
-**To make this project possible we will use *Codeforces Api***
+**To make this project possible we will use [*Codeforces Api*](https://codeforces.com/api/help)**
 
 ## Steps for Betal-Code development
 1. Data Collection and Cleaning 
