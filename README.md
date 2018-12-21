@@ -7,13 +7,13 @@ To know about a problem's tags, difficulty and other user's review, and then sel
 > The task is to create a Betal which never stops recommending adequate problems to it's Vikram and each time the problems get better.
 > Multiple types of recommendation engines will operate in Betal-Code and Vikram can choose which type of recommedation to take.
 
-## Systems to use for recommendation
+## Systems available to use for recommendation
 * Collaborative Recommender System
 * Content based Recommender System
 * Hybrid Recommender System
 * Knowledge based Recommender System
 
-## Machine Learning Techniques to Build Recommendation Engine
+## Machine Learning Techniques available to Build Recommendation Engine
 * k-nearest neighbours approach
 * Association Rules appraoch
 * Matrix Factorisation approach
@@ -22,8 +22,8 @@ To know about a problem's tags, difficulty and other user's review, and then sel
 *Any other techniques or systems are welcome as feature requests in Issues*
 
 ## Prerequisites
-* Machine Learning
-* Web-App Development
+* Machine Learning(*Knowledge of Recommender System is enough*)
+* Web-App Development(*Django is preferred*)
 
 **Prior Knowledge of above prerequisites is not *mandatory* and can be learnt while development. Mentors can also help you out**
 
