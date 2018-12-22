@@ -37,11 +37,11 @@ To know about a problem's tags, difficulty and other user's review, and then sel
 *Candidates can choose which steps they want to work on*
 
 1. **Data Colection and Cleaning**
-   _ Keeping in mind the data available at the codeforces api and the recommendation engine choosed, appropriate data is fetched, cleaned and stored in form of csv or xls.
+     * Keeping in mind the data available at the codeforces api and the recommendation engine choosed, appropriate data is fetched, cleaned and stored in form of csv or xls.
 2. **Fitting a Recommendation Engine**
-   _ Make your Betal by training on the dataset stored.
+     * Make your Betal by training on the dataset stored.
 3. **Deploying on Web-App**
-   _ Deploy the trained engine on a web-app that recommendends problems and also takes feedback for the recommended problems.(*For example, a collaborative system would require it's user to provide thier codeforces username and then recommend*)
+     * Deploy the trained engine on a web-app that asks it's user for sufficient information and then recommend problems and also takes feedback for the recommended problems and then use this data to improve further recommendations.(*For example, a collaborative system would require it's user to provide thier codeforces username and then recommend*)
 
 ## Contribution
 You can contact mentors regarding your *visualisation and techniques* to solve the problem and for contribution to this project.
