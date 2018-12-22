@@ -49,3 +49,4 @@ You can make pull requests if you want to contribute.
 
 ## Mentors
 * [Suraj Kumar](https://github.com/shazz10) - (Email- sksuraj2136@gmail.com)
+* [Anirudh Deep](https://github.com/anirudh1107) - (Email- anirudhdeep.11@gmail.com)
